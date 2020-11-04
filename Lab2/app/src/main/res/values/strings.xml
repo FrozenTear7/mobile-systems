@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="mainTitle">Chat</string>
+    <string name="serverHint">Server IP address</string>
+    <string name="nicknameHint">Nickname</string>
+    <string name="startText">Start</string>
+    <string name="sendButton">Send</string>
+    <string name="sendMessageHint">Message</string>
+</resources>
