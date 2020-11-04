@@ -14,5 +14,5 @@
 .cxx
 local.properties
 
-chat_src_lib/
 mqtt_test_client/
+chat_src_lib/
