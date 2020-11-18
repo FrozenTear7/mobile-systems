@@ -57,17 +57,17 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onStatusChanged(String provider, int status, Bundle extras) {
-
+                Log.v("[Location listener]", "Location status changed");
             }
 
             @Override
             public void onProviderEnabled(String provider) {
-
+                Log.v("[Location listener]", "Provider enabled");
             }
 
             @Override
             public void onProviderDisabled(String provider) {
-
+                Log.v("[Location listener]", "Provider disabled");
             }
         };
     }
