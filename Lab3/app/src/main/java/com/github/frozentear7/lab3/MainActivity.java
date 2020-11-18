@@ -76,7 +76,7 @@ public class MainActivity extends AppCompatActivity {
         private final WeakReference<MainActivity> mActivity;
 
         MyHandler(MainActivity activity) {
-            mActivity = new WeakReference(activity);
+            mActivity = new WeakReference<>(activity);
         }
 
         @Override
