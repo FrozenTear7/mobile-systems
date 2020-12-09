@@ -1,2 +1,2 @@
 language = "swift"
-run = "swift ./Lab4/ex7.swift"
+run = "swift ./Lab4/ex11.swift"
